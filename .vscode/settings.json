@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GameConGame.sln"
+    "dotnet.defaultSolution": "GameCon-Game-26.sln"
 }
